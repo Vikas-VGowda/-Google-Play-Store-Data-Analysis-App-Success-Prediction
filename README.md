@@ -1,4 +1,4 @@
-# 📱 Google Play Store Data Analysis & App Success Prediction
+# Google Play Store Data Analysis & App Success Prediction
 
 ## 📌 Project Overview
 
